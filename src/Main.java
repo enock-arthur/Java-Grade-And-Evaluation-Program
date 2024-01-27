@@ -1,9 +1,7 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        /*This program assumes that the student has 8 subjects,
-        That is why I have created an array of 7.
-         */
+        
 
         int marks[] = new int[7];
         int i;
